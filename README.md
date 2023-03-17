@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sarah358
+- 👋 Hi, I’m Sarah Njuguna
   - 👀 I’m a software developer
-- 📫 How to reach me njerinjuguna358@gmail.com
+- 📫 How to reach me http://sarahnjuguna.com/
 
 <!---
 Sarah358/Sarah358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
